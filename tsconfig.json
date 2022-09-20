@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "noImplicitAny": false,
+    "suppressImplicitAnyIndexErrors": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "listFiles": false,
+    "moduleResolution": "node",
+    "module": "commonjs",
+    "sourceMap": true,
+    "outDir": "build",
+    "allowJs": true,
+    "removeComments": true,
+    "lib": ["es2019"],
+    "skipLibCheck": true,
+    "noStrictGenericChecks": true
+  }
+}
